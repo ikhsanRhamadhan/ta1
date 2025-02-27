@@ -1,0 +1,23 @@
+.jumbotron {
+    padding-top: 6rem;
+    background-image: url(image/T.jpg);
+  }
+  
+  #talents {
+    background-color: black;
+  }
+  
+  section {
+    padding-top: 5rem;
+  }
+  
+  .navbar {
+    background-color: rgba(0, 0, 0, 0.3) !important; /* Transparan */
+    backdrop-filter: blur(10px); /* Efek blur */
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
+  }
+  footer {
+    background-color: rgba(0, 0, 0, 0.893); /* Transparan */
+    backdrop-filter: blur(10px);
+    padding: 20px;
+  }
